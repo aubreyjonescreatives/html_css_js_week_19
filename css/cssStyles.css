@@ -1,0 +1,79 @@
+@media screen and (min-width: 480px) and (max-width: 600px) {
+
+
+
+
+.heroImage {
+    width: 100%; 
+    display: inline-block; 
+
+}
+
+
+.heroImage img {
+    width: 100%; 
+}
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+@media screen and (min-width: 601px) and (max-width: 1000px) {
+
+
+
+
+    .heroImage {
+        width: 100%; 
+    
+    }
+    
+    
+    .heroImage img {
+        width: 100%; 
+    }
+    
+
+
+
+
+
+
+
+
+}
+
+
+@media screen and (min-width: 1001px) and (max-width: 1200px) {
+
+
+
+
+
+    .heroImage {
+        width: 100%; 
+    
+    }
+    
+    
+    .heroImage img {
+        width: 100%; 
+    }
+    
+
+
+
+
+
+
+
+}
